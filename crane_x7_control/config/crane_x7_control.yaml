@@ -45,7 +45,7 @@ dynamixel_port:
   crane_x7_upper_arm_revolute_part_twist_joint: {id: 4, center: 2048, home: 2048, effort_const: 1.79, mode: 3 }
   crane_x7_upper_arm_revolute_part_rotate_joint: {id: 5, center: 2048, home: 2048, effort_const: 1.79, mode: 3 }
   crane_x7_lower_arm_fixed_part_joint: {id: 6, center: 2048, home: 2048, effort_const: 1.79, mode: 3 }
-  crane_x7_lower_arm_revolute_part_joint: {id: 7, center: 2048, home: 2048, effort_const: 1.79, mode: 3 }
+  crane_x7_lower_arm_revolute_part_joint: {id: 7, center: 2687, home: 2687, effort_const: 1.79, mode: 3 }
   crane_x7_wrist_joint: {id: 8, center: 2048, home: 2048, effort_const: 1.79, mode: 3 }
   crane_x7_gripper_finger_a_joint: {id: 9, center: 2048, home: 2048, effort_const: 1.79, mode: 3 }
 
